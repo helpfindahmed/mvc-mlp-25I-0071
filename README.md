@@ -1,7 +1,7 @@
 # MVC Project: Multilayer Perceptron
-**Student:** Your Name  
+**Student:** Ahmed Habib
 **Roll No:** 25I-0071  
-**Course:** Artificial Neural Networks  
+**Course:** MultiVariable Calculus
 
 ## About
 Manual implementation of a Multilayer Perceptron (MLP) 
